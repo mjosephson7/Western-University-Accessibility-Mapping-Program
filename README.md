@@ -13,17 +13,17 @@ those in need of accessibility features.
 
 A list of the required libraries and third party tools required to run or 
 build your software:
-Java JDK 20
-Java Runtime 20
-Maven 3.8.7
-Apache NetBeans 17
-NetBeans IDE 8.2 or higher
-javax.swing - Java Platform SE 7
-junit-jupiter-engine - version 5.6.0
-junit-jupiter-params - version 5.6.0
-junit-jupiter-api - version 5.6.0
-absoluteLayout - release 160
-jackson-databind - version 2.14.2
+* Java JDK 20
+* Java Runtime 20
+* Maven 3.8.7
+* Apache NetBeans 17
+* NetBeans IDE 8.2 or higher
+* javax.swing - Java Platform SE 7
+* junit-jupiter-engine - version 5.6.0
+* junit-jupiter-params - version 5.6.0
+* junit-jupiter-api - version 5.6.0
+* absoluteLayout - release 160
+* jackson-databind - version 2.14.2
 
 Guide For Building The Software: 
 The source code for this software can be downloaded from the zip file 
@@ -49,7 +49,7 @@ point to favourite it.
 
 How to Access Editor Mode: 
 Editor mode or admin mode is accessed using:
-Username: admin
-Password: admin
+* Username: admin
+* Password: admin
 
 
