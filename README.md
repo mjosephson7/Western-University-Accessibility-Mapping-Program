@@ -1,4 +1,4 @@
-Western University Mapping Software
+# Western University Mapping Software
 A Short Description:
 The software is an application designed to assist people with navigating the 
 interior spaces of Western University buildings. The application uses the floor 
